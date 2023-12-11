@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702297327 source:e:\hossam\c language\function\functiontask2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

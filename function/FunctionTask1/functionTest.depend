@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702246160 source:e:\hossam\c language\function\functiontest\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702297386 source:e:\hossam\c language\function\functiontask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+﻿  testApp.cpp
+E:\hossam\C language\testApp\testApp.cpp(12,20): error C2131: expression did not evaluate to a constant
+E:\hossam\C language\testApp\testApp.cpp(12,20): message : failure was caused by a read of a variable outside its lifetime
+E:\hossam\C language\testApp\testApp.cpp(12,20): message : see usage of 'size'
+E:\hossam\C language\testApp\testApp.cpp(20,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int [size]'
+E:\hossam\C language\testApp\testApp.cpp(20,16): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int [size]'
+E:\hossam\C language\testApp\testApp.cpp(10,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\hossam\C language\testApp\testApp.cpp(16,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

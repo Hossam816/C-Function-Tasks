@@ -1,0 +1,3 @@
+E:/hossam/C language/hossam/build/CMakeFiles/HOSSAM.dir
+E:/hossam/C language/hossam/build/CMakeFiles/ALL_BUILD.dir
+E:/hossam/C language/hossam/build/CMakeFiles/ZERO_CHECK.dir
